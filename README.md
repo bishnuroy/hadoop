@@ -6,13 +6,13 @@ Pre Requisite:
 1) Enable ssh for Root user.
 2) ##adduser hduser
 
-# adduser hduser; passwd hduser
+"adduser hduser; passwd hduser"
 groupadd hadoop; useradd hduser -g hadoop; usermod -aG wheel hduser
 
 
 3) Add following Paramiter in "/etc/sysctl.conf" file
 
-#disable ipv6
+"#disable ipv6"
 net.ipv6.conf.all.disable_ipv6 = 1
 net.ipv6.conf.default.disable_ipv6 = 1
 net.ipv6.conf.lo.disable_ipv6 = 1
