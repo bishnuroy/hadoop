@@ -1,4 +1,4 @@
-# hadoop
+# Hadoop CDH-Cluster Setup
 
 Pre Requisite:
 
