@@ -33,4 +33,7 @@ add them in /etc/rc.local file.
     $ sudo ./cloudera-manager-installer.bin
 7) And follow the step by step instraction to install. 
     
+8) This bin file will make the setup environment in "manager server"
+    once setup is done it will give link with port number eg. "http://hostname:7180"(manager link).
+    Open the link in browser and it will ask for user and password "admin"-"admin"
 
