@@ -60,3 +60,5 @@ add them in /etc/rc.local file.
 14)
 ![hadoop8](https://cloud.githubusercontent.com/assets/17826110/20382166/a1bb3986-acd0-11e6-8c7c-de549b1a4db8.jpg)
 
+15)
+<img width="1397" alt="screen shot 2016-11-17 at 10 38 20 am" src="https://cloud.githubusercontent.com/assets/17826110/20382662/cc5a963a-acd2-11e6-8076-1bf9ff4609de.png">
